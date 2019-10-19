@@ -69,18 +69,18 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 3%;
+  border: 3px groove yellow;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(2) rotate(5deg);
 }
 .tag {
   background-color: #c4203c;
   color: #000080;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 24px;
   display: table;
   margin: 10px auto;
 }
